@@ -32,6 +32,7 @@ O objetivo com este projeto é fazer uma calculado simplificada, com operações
     │ │ └── script.js
     └── index.php
  
-## 🔰 Página online
+## 🔰 Para visualizar a página online, basta acessar o link abaixo:
 
     https://brunnuscz.github.io/simple-calculator/
+    
