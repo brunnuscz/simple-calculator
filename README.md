@@ -13,13 +13,9 @@ O objetivo com este projeto é fazer uma calculado simplificada, com operações
 
     git clone https://github.com/brunnuscz/simple-calculator.git
 
-### 📍 Entrando no repositório baixado:
+### 📍 Entrando no repositório baixado. Para acessar a página, abra o arquivo index.html no navegador:
 
     cd simple-calculator
-
-### 📍 Página principal:
-
-    Para acessar a página basta abrir o arquivo index.html no navegador.
 
 ## 🗃 Estrutura do projeto
 
