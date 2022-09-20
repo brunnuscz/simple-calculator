@@ -2,6 +2,10 @@
 
 O objetivo com este projeto é fazer uma calculado simplificada, com operações básicas.
 
+## 🚩 Prévia
+
+<img src="public/img/previa.png" width="100%">
+
 ## 📚 Materiais
 
     HTML (Hypertext Markup Language)
