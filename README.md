@@ -6,6 +6,8 @@ O objetivo com este projeto é fazer uma calculado simplificada, com operações
 
 <img src="public/img/previa.png" width="100%">
 
+<h4 align="center"><a href="https://brunnuscz.github.io/simple-calculator/">Clique aqui para visitar o projeto</a></h4>
+
 ## 📚 Materiais
 
     HTML (Hypertext Markup Language)
@@ -32,7 +34,3 @@ O objetivo com este projeto é fazer uma calculado simplificada, com operações
     │ │ └── script.js
     └── index.php
  
-## 🔰 Para visualizar a página online, basta acessar o link abaixo:
-
-    https://brunnuscz.github.io/simple-calculator/
-    
