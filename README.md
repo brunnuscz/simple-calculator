@@ -10,9 +10,9 @@ O objetivo com este projeto é fazer uma calculado simplificada, com operações
 
 ## 📚 Materiais
 
-    HTML (Hypertext Markup Language)
-    CSS (Cascading Style Sheet)
-    JS (JavaScript)
+- HTML (Hypertext Markup Language)
+- CSS (Cascading Style Sheet)
+- JS (JavaScript)
 
 ## 📁 Projeto
 ### 📍 Fazendo o clone do repositório:
@@ -22,15 +22,3 @@ O objetivo com este projeto é fazer uma calculado simplificada, com operações
 ### 📍 Entrando no repositório baixado. Para acessar a página, abra o arquivo index.html no navegador:
 
     cd simple-calculator
-
-## 🗃 Estrutura do projeto
-
-    ├── public
-    │ ├── css
-    │ │ └── style.css
-    │ ├── img
-    │ │ └── favicon.png
-    │ ├── js
-    │ │ └── script.js
-    └── index.php
- 
